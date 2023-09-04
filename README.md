@@ -1,5 +1,5 @@
 # DataScience_CoderHouse_NBA
-La NBA es la liga de baloncesto más popular del mundo y cada temporada los fanáticos de todo el mundo esperan con emoción ver a sus equipos favoritos en la temporada regular y en los playoffs, donde la competencia se intensifica y cada partido es crucial. En este proyecto, exploramos cómo las estadísticas de los partidos pueden afectar o influir en los resultados y cómo las características de los jugadores y equipos pueden afectar el juego.
+La NBA es la liga de baloncesto más popular del mundo y cada temporada los fanáticos de todo el mundo esperan con emoción ver a sus equipos favoritos en la temporada regular y en los playoffs, donde la competencia se intensifica y cada partido es crucial. En este proyecto, explore cómo las estadísticas de los partidos pueden afectar o influir en los resultados y cómo las características de los jugadores y equipos pueden afectar el juego.
 
 Objetivos del Proyecto:
 
