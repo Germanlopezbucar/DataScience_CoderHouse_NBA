@@ -20,6 +20,7 @@ Resultados de los Modelos:
 
 * Modelos de Clasificación:
 ![image](https://github.com/Germanlopezbucar/DataScience_CoderHouse_NBA/assets/116103306/1cecb721-df23-40e2-9e74-7ec3d22b48b7) ![image](https://github.com/Germanlopezbucar/DataScience_CoderHouse_NBA/assets/116103306/b21af09a-fd70-4cf7-8135-cac54d7d735d)
+
 * Modelos de Clustering:
 ![image](https://github.com/Germanlopezbucar/DataScience_CoderHouse_NBA/assets/116103306/6ab489b1-689e-45cf-b3c0-701088a6a7c2) ![image](https://github.com/Germanlopezbucar/DataScience_CoderHouse_NBA/assets/116103306/b495bc24-c9ad-4087-9bbb-d2322230c687)
 
