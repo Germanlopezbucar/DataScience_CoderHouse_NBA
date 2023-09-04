@@ -7,14 +7,14 @@ Objetivos del Proyecto:
 * Examinar las estadísticas individuales de los jugadores y equipos para comprender mejor las cualidades más relevantes del juego.
 * Desarrollar algoritmos de predicción de resultados de partidos y de agrupación de jugadores según sus cualidades.
  
- Combinamos varios archivos csv y también de excel para formar datasets mas completos, con la finalidad de realizar un análisis profundo de todas las estadísticas de un partido, tanto a nivel individual (jugadores) como a nivel grupal (equipos). Para resolver un problema de clasificación y otro de clustining, aplicando modelos como regresión logística y árbol de decisión para el primer algoritmo, así como también el método de K-Means y Hirarchical para el segundo algoritmo.
+ Se combino varios archivos csv y también de excel para formar datasets más completos, con la finalidad de realizar un análisis profundo de todas las estadísticas de un partido, tanto a nivel individual (jugadores) como a nivel grupal (equipos). Para resolver un problema de clasificación y otro de clustining, aplicamos modelos como regresión logística y árbol de decisión en el primer algoritmo, así como también el método de K-Means y Hirarchical para el segundo.
 
 Contenido del Repositorio:
 
-* DataSets: En esta carpeta, almacena los conjuntos de datos utilizados en tu proyecto. Debes incluir tanto los archivos CSV como los archivos Excel que se han combinado para formar conjuntos de datos más completos. Puedes organizarlos en subcarpetas si es necesario.
+* DataSets: En esta carpeta, se almacena los datos utilizados en el proyecto. Todos los archivos CSV y Excel que se han combinado para formar los conjuntos de datos listos para ser analizados.
 * Analisis_Estadisticas_NBA (Completo_Colab).ipynb: Colab del proyecto final (Completo), con código en Python.
 * Analisis de estadisticas NBA.pptx: Presentación del proyecto, en formato .pptx .
-* Proyecto Final: En esta carpeta, se puede visualizar el trabajo mas organizado y detallado. Esta dividido en 7 partes (Abstract, Importación y Generación de Funciones, Data Adquisición, EDA, Analisis Univariado y Bivariado y Modelos).
+* Proyecto Final: En esta carpeta, se puede visualizar el trabajo mas organizado y detallado. Está dividido en 7 partes (Abstract, Importación y Generación de Funciones, Data Adquisición, EDA, Analisis Univariado y Bivariado y Modelos).
 
 Resultados de los Modelos:
 
