@@ -1,2 +1,23 @@
 # DataScience_CoderHouse_NBA
-Este es mi Proyecto Final en el curso "Data Science" de Coderhouse.
+La NBA es la liga de baloncesto más popular del mundo y cada temporada los fanáticos de todo el mundo esperan con emoción ver a sus equipos favoritos en la temporada regular y en los playoffs, donde la competencia se intensifica y cada partido es crucial. En este proyecto, exploramos cómo las estadísticas de los partidos pueden afectar o influir en los resultados y cómo las características de los jugadores y equipos pueden afectar el juego.
+
+Objetivos del Proyecto:
+
+* Realizar un análisis completo de todas las variables que influyen en el resultado de un partido de la NBA.
+* Examinar las estadísticas individuales de los jugadores y equipos para comprender mejor las cualidades más relevantes del juego.
+* Desarrollar algoritmos de predicción de resultados de partidos y de agrupación de jugadores según sus cualidades.
+ 
+ Combinamos varios archivos csv y también de excel para formar datasets mas completos, con la finalidad de realizar un análisis profundo de todas las estadísticas de un partido, tanto a nivel individual (jugadores) como a nivel grupal (equipos). Para resolver un problema de clasificación y otro de clustining, aplicando modelos como regresión logística y árbol de decisión para el primer algoritmo, así como también el método de K-Means y Hirarchical para el segundo algoritmo.
+
+Contenido del Repositorio:
+
+* DataSets: En esta carpeta, almacena los conjuntos de datos utilizados en tu proyecto. Debes incluir tanto los archivos CSV como los archivos Excel que se han combinado para formar conjuntos de datos más completos. Puedes organizarlos en subcarpetas si es necesario.
+* Analisis_Estadisticas_NBA (Completo_Colab).ipynb: Colab del proyecto final (Completo), con código en Python.
+* Analisis de estadisticas NBA.pptx: Presentación del proyecto, en formato .pptx .
+* Proyecto Final: En esta carpeta, se puede visualizar el trabajo mas organizado y detallado. Esta dividido en 7 partes (Abstract, Importación y Generación de Funciones, Data Adquisición, EDA, Analisis Univariado y Bivariado y Modelos).
+
+Resultados de los Modelos:
+
+![image](https://github.com/Germanlopezbucar/DataScience_CoderHouse_NBA/assets/116103306/1cecb721-df23-40e2-9e74-7ec3d22b48b7)
+
+ 
